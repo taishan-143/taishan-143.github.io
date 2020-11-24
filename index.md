@@ -2,5 +2,5 @@
 layout: home
 author_profile: true
 header:
-  image: "/images/manchester.jpg"
+  image: "/images/manc-sky.jpg"
 ---
