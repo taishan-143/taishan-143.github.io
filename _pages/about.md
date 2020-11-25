@@ -21,8 +21,7 @@ I graduated from the University of Manchester with a 2:1 in Aerospace Engineerin
 
 On this course I completed two projects. The first involved building a command line application, designed to insert, remove, and persist drinks and customer information, as well as create a round of drinks for specified people, and print a recipt. A local *MySQL database*, using Adminer, was used to hold all the data the app had generated.
 
-<img src="{{ site.url }}{{ site.baseurl }}/images/BrewApp/preferences.jpg" alt="Preferences Display"> 
-<img src="{{ site.url }}{{ site.baseurl }}/images/BrewApp/receipt.jpg" alt="Order Receipt">
+<img src="{{ site.url }}{{ site.baseurl }}/images/BrewApp/preferences.jpg" alt="Preferences Display">   <img src="{{ site.url }}{{ site.baseurl }}/images/BrewApp/receipt.jpg" alt="Order Receipt">
 
 The second was a group project, where we were given a task from a company who own franchises of cafes, ivolving the conversion and upload of their data to a cloud based system, and then carrying out data visualisations to identify trends in their data to help the business better understand their customers. Here we used a lot of Amazon's Web Services to *Extract*, *Transform*, and then *Load* the data into a data warehouse, to then carry out visualsations on that data. We worked in a *Scrum* team for this project, completing sprints and holding sprint reviews and retrospectives at the end of each.
 
