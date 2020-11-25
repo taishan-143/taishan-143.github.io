@@ -27,7 +27,7 @@ Fore more information on these, please visit the *Projects* page!
 
 In my spare time, I form part of a DJ collective called ***Good Custard***. We mix a variety of Disco, House, Electro, Acid, and Funky music, as well as making some of our own music and publishing it on our Soundcloud page. I'm also involved in a Product Deisgn project with a close friend, where we are iteratively designing a beard trimming stencil to be niche, universal, and provide an accurate cut on both sides of the face. 
 
-Click **[here](https://docs.google.com/document/d/17EKhav_45ZuJcqA-X2SRFi2OwC0N4VBRDhsL1RyzArI/edit)** to view my CV!
+Click **[here](file:///C:/Users/taish/Downloads/Taishan%20Rowe%20CV%20-%20editing.pdf)** to view my CV!
 
 
 
