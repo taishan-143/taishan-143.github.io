@@ -22,6 +22,7 @@ I graduated from the University of Manchester with a 2:1 in Aerospace Engineerin
 On this course I completed two projects. 
 The first involved building a command line application, designed to insert, remove, and persist drinks and customer information, as well as create a round of drinks for specified people and print a recipt. 
 The second was a group project, where we were given a task from a company who own franchises of cafes, ivolving the conversion and upload of their data to a cloud based system, and then carrying out data visualisations to identify trends in their data to help the business better understand their customers. 
+
 Fore more information on these, please visit the *Projects* page!
 
 In my spare time, I form part of a DJ collective called ***Good Custard***. We mix a variety of Disco, House, Electro, Acid, and Funky music, as well as making some of our own music and publishing it on our Soundcloud page. I'm also involved in a Product Deisgn project with a close friend, where we are iteratively designing a beard trimming stencil to be niche, universal, and provide an accurate cut on both sides of the face. 
