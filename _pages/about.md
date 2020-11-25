@@ -17,16 +17,7 @@ I graduated from the University of Manchester with a 2:1 in Aerospace Engineerin
 * AWS - S3, EC2, Lambda, Redshift, CloudWatch, CodePipeline, SQS, Quicksight 
 * ETL 
 * Agile/Scrum Methodologies
-* Behavioural Mindsets:
-    * Growth Mindset   
-    * Persistence 
-    * Proactiveness
-    * Comminucation
-    * Professionalism 
-    * Future Orientation
-    * Orientation to Detail
-    * Personal Responsibility 
-    * Time Management
+* Behavioural Mindsets: - Growth Mindset, Persistence, Proactiveness, Communication, Professionalism, Future Orientation, Orientation to Detail, Personal Responsibility, Time Management
 
 
 
